@@ -1,0 +1,21 @@
+# LIBRARY
+pandas as pd: Mengolah dan menganalisis data dalam bentuk DataFrame
+numpy as np: Operasi numerik dan array
+matplotlib.pyplot as plt: Visualisasi dasar seperti line plot, bar plot, dll.
+seaborn as sns: Visualisasi yang lebih menarik dan informatif
+plotly.express as px: visualisasi interaktif secara cepat dan sederhana
+plotly.graph_objects as go: visualisasi yang lebih fleksibel dan terkontrol
+
+from sklearn.impute import SimpleImputer, KNNImputer: Mengisi nilai hilang (missing values)
+from sklearn.experimental import enable_iterative_imputer: Mengaktifkan fitur IterativeImputer
+from sklearn.impute import IterativeImputer: Imputasi nilai hilang berbasis model
+
+warnings: Mengatur atau menyembunyikan warning agar output lebih rapi
+from IPython.display import display: Menampilkan DataFrame atau output lain dengan format lebih baik
+bokeh: Menampilkan visualisasi yang lebih advance
+
+# PROGRAM
+google colab 
+Runtime Type: Python 3 Python 3 Google Compute Engine backend
+Hardware Accelerator: CPU
+Runtime version: Latest
