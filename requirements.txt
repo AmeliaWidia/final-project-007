@@ -1,16 +1,16 @@
 # LIBRARY
-1. pandas as pd: Mengolah dan menganalisis data dalam bentuk DataFrame
-2. numpy as np: Operasi numerik dan array
-3. matplotlib.pyplot as plt: Visualisasi dasar seperti line plot, bar plot, dll.
-4. seaborn as sns: Visualisasi yang lebih menarik dan informatif
-5. plotly.express as px: visualisasi interaktif secara cepat dan sederhana
-6. plotly.graph_objects as go: visualisasi yang lebih fleksibel dan terkontrol
-7. from sklearn.impute import SimpleImputer, KNNImputer: Mengisi nilai hilang (missing values)
-8. from sklearn.experimental import enable_iterative_imputer: Mengaktifkan fitur IterativeImputer
-9. from sklearn.impute import IterativeImputer: Imputasi nilai hilang berbasis model
-10. warnings: Mengatur atau menyembunyikan warning agar output lebih rapi
-11. from IPython.display import display: Menampilkan DataFrame atau output lain dengan format lebih baik
-12. bokeh: Menampilkan visualisasi yang lebih advance
+pandas
+numpy
+matplotlib.pyplot
+seaborn 
+plotly.express 
+plotly.graph_objects 
+sklearn.impute 
+sklearn.experimental
+sklearn.impute 
+warnings
+IPython.display
+bokeh
 
 # PROGRAM
 1. Main program: google colab 
